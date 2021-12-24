@@ -82,5 +82,3 @@ fields:
   - type: boolean
     name: appendFilePath
     label: appendFilePath
-pages:
-- content/posts/look-at-how.md
