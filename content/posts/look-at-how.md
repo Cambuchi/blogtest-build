@@ -9,7 +9,6 @@ date = ""
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
